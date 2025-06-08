@@ -1,7 +1,6 @@
 # Contribute  
 
-The MASSGRAVE project does not earn money from donations, ads, or any other sources and we are commited to keeping it this way.  
-However, if you would like to support us, you can do so in non-financial ways.  
+The MASSGRAVE project runs completely without money—no donations, no ads, no income. Keeping it free and accessible is still our goal. But if you do see the value in what we're doing and feel you'd like to help out, there are substantive ways to do so that don't require finance. Your interest, collaboration, and help in getting the word out keep it going. Every little bit counts.
 
 ## Coding  
 
